@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Matheus Carlos Bandeira Teixeira, @matband
 - 🌱 I’m currently studying Mechanical Engineering at Politecnico di Milano and Civil Engineering at University of São Paulo
 - 👀 I’m interested in Structural Engineering, Fluid-Solid Interactions, Technology, Optimization, Computer Fluid Dynamics and Simulations
-- 💞️ I’m looking to work combining technology and the theory of physical phenomena to work in Computer Aided Engineering Applications
+- ⚙️ I’m looking to work combining technology and the theory of physical phenomena to work in Computer Aided Engineering Applications
 - 📫 How to reach me: [Email USP](matband@usp.br) | [Email PoliMi](matheuscarlos.bandeira@mail.polimi.it) | [Linkedin](https://www.linkedin.com/in/bandeira-teixeira/)
 - 💻 Programming: C/C++ (Parallel); Python; Matlab; PHP; VB | Technologies: Office; Git; 
 - ⚡ Fun fact: I've won a bronze medal in my national (BR) math olympiad
